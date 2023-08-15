@@ -1,1 +1,1 @@
-
+let youArray = ["hi",12,true,13,32]
